@@ -147,14 +147,3 @@ This system is intentionally designed to ensure:
 ⭐ If you find this project interesting, feel free to star the repository!
 
 ```
-
----
-
-If you want next, I can:
-- Add a **`.gitignore`**
-- Create a **requirements.txt**
-- Write a **Methodology / Research Note**
-- Help you craft a **LinkedIn or resume description**
-
-Just tell me 👍
-```
