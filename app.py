@@ -34,11 +34,11 @@ from utils.ai_explainer import (
 # PAGE CONFIG
 # =================================================
 st.set_page_config(
-    page_title="Forensic Alpha Scanner",
+    page_title="Position Sizing Model",
     layout="wide"
 )
 
-st.title("🔍 Forensic Alpha Scanner")
+st.title("🔍 Position Sizing Model")
 st.caption(
     "Forensic accounting–driven portfolio positioning engine "
     "with local AI explanations (Ollama)"
@@ -298,3 +298,4 @@ with tabs[3]:
 
         st.subheader("📋 Full Engine Output (All Years)")
         st.dataframe(exec_df, use_container_width=True)
+
